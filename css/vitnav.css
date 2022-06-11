@@ -1,0 +1,42 @@
+.navbar{
+	background-color: black;
+}
+.vit{
+	width: 12rem;
+	height: 4rem;
+}
+.backs
+{
+	width: 4.5rem;
+	height: 3.5rem;
+}
+.gravi{
+	width: 12rem;
+	margin-left: 1.75rem;
+	padding-top: 0.75rem;
+}
+.nav-item{
+	padding-right: 3rem;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+.ali{
+	padding-top: 1rem;
+}
+#mathbee{
+	padding-left: 2rem;
+	padding-top: 1rem;
+}
+@media only screen and (max-width: 1080px){
+	.backs{
+		width: 4rem;
+		height: 3.5rem;
+	}
+	.gravi{
+		margin-left: 0rem;
+		width:10rem;
+	}
+	#mathbee{
+	padding-left: 0rem;
+}
+}
