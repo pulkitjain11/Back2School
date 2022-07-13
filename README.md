@@ -1,2 +1,2 @@
 # Back2School
-![b2sLogo](https://user-images.githubusercontent.com/65628351/178672119-d7d52d18-f8d2-4936-a5d9-8dc882e45ef8.png)
+![b2sLogofavi](https://user-images.githubusercontent.com/65628351/178672372-8b0cf6d2-24a7-4d09-8448-4c16f4bf789c.png)
